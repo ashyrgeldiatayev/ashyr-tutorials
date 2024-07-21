@@ -1,3 +1,6 @@
 [submodule "AutoML-Web-App"]
 	path = AutoML-Web-App
 	url = https://github.com/ashyrgeldiatayev/AutoML-Web-App
+[submodule "apple_stock_prediction"]
+	path = apple_stock_prediction
+	url = https://github.com/ashyrgeldiatayev/apple_stock_prediction
