@@ -7,3 +7,6 @@
 [submodule "face_recognition"]
 	path = face_recognition
 	url = https://github.com/ashyrgeldiatayev/face_recognition
+[submodule "weather_prediction"]
+	path = weather_prediction
+	url = https://github.com/ashyrgeldiatayev/weather_prediction
