@@ -13,3 +13,6 @@
 [submodule "customer_segmentation"]
 	path = customer_segmentation
 	url = https://github.com/ashyrgeldiatayev/customer_segmentation
+[submodule "object_detection"]
+	path = object_detection
+	url = https://github.com/ashyrgeldiatayev/object_detection
