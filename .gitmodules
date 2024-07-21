@@ -1,0 +1,3 @@
+[submodule "AutoML-Web-App"]
+	path = AutoML-Web-App
+	url = https://github.com/ashyrgeldiatayev/AutoML-Web-App
