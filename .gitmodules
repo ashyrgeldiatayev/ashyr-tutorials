@@ -4,3 +4,6 @@
 [submodule "apple_stock_prediction"]
 	path = apple_stock_prediction
 	url = https://github.com/ashyrgeldiatayev/apple_stock_prediction
+[submodule "face_recognition"]
+	path = face_recognition
+	url = https://github.com/ashyrgeldiatayev/face_recognition
