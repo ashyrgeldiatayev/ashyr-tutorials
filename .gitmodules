@@ -10,3 +10,6 @@
 [submodule "weather_prediction"]
 	path = weather_prediction
 	url = https://github.com/ashyrgeldiatayev/weather_prediction
+[submodule "customer_segmentation"]
+	path = customer_segmentation
+	url = https://github.com/ashyrgeldiatayev/customer_segmentation
